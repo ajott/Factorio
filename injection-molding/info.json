@@ -1,0 +1,9 @@
+{
+  "name": "injection-molding",
+  "version": "1.0.0",
+  "title": "Injection Molding",
+  "description": "Molten plastic - why not?",
+  "author": "Althalin",
+  "factorio_version": "2.0",
+  "dependencies": ["base", "? space-age"]
+}
