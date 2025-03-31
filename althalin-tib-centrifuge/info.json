@@ -1,9 +1,9 @@
 {
   "name": "althalin-tib-centrifuge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Althalin's Tiberium Centrifuge",
   "description": "A custom tiberium centrifuge (in assembler tiers 1, 2, and 3) for Factorio and Conquer: Tiberian Dawn",
-  "author": "Althalin",
+  "author": "Althalin, MsBinaryLily",
   "factorio_version": "2.0",
   "dependencies": ["base", "Factorio-Tiberium"]
 }
